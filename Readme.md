@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Lina Mya](https://up.htmlacademy.ru/htmlcss/30/user/1162243).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Гуляев](https://htmlacademy.ru/profile/dima).
 
 ---
 
